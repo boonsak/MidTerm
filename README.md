@@ -38,13 +38,6 @@ npm i swagger-ui-express
 npm start
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 ฺBoonsak T.
